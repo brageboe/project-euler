@@ -5,6 +5,5 @@ Exercises from https://projecteuler.net
 ```shell
 git clone <git_url>
 cd project-euler
-cd oppg10
 pipenv install
 ```
